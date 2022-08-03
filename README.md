@@ -4,5 +4,5 @@
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
-       <img src="https://user-images.githubusercontent.com/108819474/182640832-4b4ab135-8a10-47bf-a046-6d9ff41abeeb.jpg"/>
+<img align="center" src="https://user-images.githubusercontent.com/108819474/182640832-4b4ab135-8a10-47bf-a046-6d9ff41abeeb.jpg"/>
 

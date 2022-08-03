@@ -3,5 +3,5 @@
 </p>
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
-</h4> Seja bem vindo, amigo!
+</h4>
 <img src="https://user-images.githubusercontent.com/108819474/182642101-5119714d-1d35-4f5a-8b90-e99c73e1c9a1.png"/>
